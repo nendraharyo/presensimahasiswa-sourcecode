@@ -1,0 +1,11 @@
+package com.google.ads.mediation;
+
+public abstract interface NetworkExtras
+  extends com.google.android.gms.ads.mediation.NetworkExtras
+{}
+
+
+/* Location:              C:\Users\haryo\Desktop\enjarify-master\presensi-enjarify.jar!\com\google\ads\mediation\NetworkExtras.class
+ * Java compiler version: 5 (49.0)
+ * JD-Core Version:       0.7.1
+ */

@@ -1,0 +1,12 @@
+package com.crashlytics.android.core;
+
+public abstract interface CrashlyticsNdkDataProvider
+{
+  public abstract CrashlyticsNdkData getCrashlyticsNdkData();
+}
+
+
+/* Location:              C:\Users\haryo\Desktop\enjarify-master\presensi-enjarify.jar!\com\crashlytics\android\core\CrashlyticsNdkDataProvider.class
+ * Java compiler version: 5 (49.0)
+ * JD-Core Version:       0.7.1
+ */
